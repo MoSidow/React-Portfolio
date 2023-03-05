@@ -1,17 +1,16 @@
 import React from 'react';
 
+
 export default function About() {
   return (
-    <div>
-      <h1>About Page</h1>
-      <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.
-      </p>
-    </div>
+    <div className='aboutme'>
+    <h2>About Me</h2>
+    <p>My name is Mohamed (you can call me Mo Sidow)
+       I live In Birmingham, West Midlands.
+       My highest level of education is A levels, I am not  that technical.
+      IT Skills probably 2 or 3. I have some basic knowledge of Simple HTML and CSS.
+    I took this Course, because I've always wanted to know what really is behind in Creating a website and I have an eager to learn how it is done, So I can hopefully get into a Career of Web development.
+  Fun Fact: I enjoy Playing Football</p>
+ </ div>
   );
 }

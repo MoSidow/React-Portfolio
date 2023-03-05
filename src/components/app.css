@@ -1,0 +1,99 @@
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: paleturquoise;;
+    color: grey;
+    padding: 20px 60px 20px 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+
+  .title {
+    font-size: 200%;
+    background-color: blanchedalmond;
+    padding: 10px 15px 10px 30px;
+    } 
+
+    .navs ul {
+        display: flex;
+        justify-content: space-between;
+        min-width: 350px;
+     }
+    
+     .navs a {
+        color:gray;
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 20px;
+      } 
+
+      .navs a:hover {
+        background-color: whitesmoke;
+        color: gray;
+        font-size: larger;
+      }
+
+      .footer-sec {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        background-color: paleturquoise;
+        color: grey;
+        padding: 20px 60px 20px 0;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        margin-top: 40px;
+      }
+
+      .footer-itms {
+        display: flex;
+        justify-content: space-evenly;
+        min-width: 700px;
+        list-style-type: none;
+      }
+      
+      div a {
+        color:gray;
+        font-weight: bold;
+        text-decoration: none;
+        font-size: 20px;
+        list-style-type: none;
+      } 
+      
+      div a:hover {
+        color: blanchedalmond;
+      }
+
+      .aboutme {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+      }
+      
+      .aboutme {
+        margin-top: 100px;
+        padding: 0px 100px 30px 100px;
+        margin: 100px 50px 0 50px;
+        background-color: blanchedalmond;
+        border: 5px solid paleturquoise;
+      }
+    
+      .aboutme h2 {
+        border: 5px solid paleturquoise;
+        position: relative;
+        bottom: 30px;
+        color: grey;
+        font-size: 200%;
+        background-color: blanchedalmond;
+        padding: 10px 10px 10px 10px;
+      }
+    
+      .aboutme p {
+        line-height: 1.6;
+        font-style: oblique;
+      }
+    
+
+
+
+
