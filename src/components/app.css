@@ -203,8 +203,7 @@
       }
 
 
-
-      .Ftitle {
+.Ftitle {
         font-size: 20px;
         font-weight: 600;
        background-color: darkcyan;
@@ -254,6 +253,8 @@
   -webkit-user-select: none;
   touch-action: manipulation;
 }
+
+
    
     
 

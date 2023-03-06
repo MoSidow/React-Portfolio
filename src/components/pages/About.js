@@ -10,8 +10,8 @@ export default function About() {
     <p>Hi 👋 My name is <span className='name'>Mohamed</span><br/><br/> <img src={avatar} alt='avatar'></img><br/><br/>
     (You can call me Mo Sidow)
        I live In Birmingham, West Midlands.
-       My highest level of education is A levels, I am not  that technical.
-      IT Skills probably 2 or 3. I have some basic knowledge of Simple HTML and CSS.
+       My highest level of education is A levels.
+      IT Skills probably 8 out of 10. I am currently studying Full Stack Web development at Birmingham City University, graduating this month.
     I took this Course, because I've always wanted to know what really is behind in Creating a website and I have an eager to learn how it is done, So I can hopefully get into a Career of Web development.
   Fun Fact: I enjoy Playing Football</p>
  </ div>
