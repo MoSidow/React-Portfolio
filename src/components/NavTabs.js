@@ -1,5 +1,5 @@
 import React from 'react';
-import './app.css'
+
 
 // TODO: Add a comment explaining how we are able to extract the key value pairs from props
 

@@ -1,18 +1,25 @@
 
+
 .header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: paleturquoise;;
+    background-color: lightcyan;
     color: grey;
     padding: 20px 60px 20px 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
   .title {
-    font-size: 200%;
-    background-color: blanchedalmond;
-    padding: 10px 15px 10px 30px;
+    font-size: 50px;
+    font-weight: 600;
+    background-image: url(https://th.bing.com/th/id/OIP.t4x5IxiNPXCVhGI6Dtl_mgHaEK?pid=ImgDet&rs=1);
+    background-size: 250px;
+    background-repeat: repeat;
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    margin-left: 2%;
     } 
 
     .navs ul {
@@ -29,11 +36,12 @@
       } 
 
       .navs a:hover {
-        background-color: whitesmoke;
+        background-color: lightskyblue;
         color: gray;
         font-size: larger;
       }
 
+      
       .footer-sec {
         display: flex;
         justify-content: space-between;
@@ -42,7 +50,7 @@
         color: grey;
         padding: 20px 60px 20px 0;
         font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-        margin-top: 40px;
+        margin-top: 20%;
       }
 
       .footer-itms {
@@ -51,6 +59,7 @@
         min-width: 700px;
         list-style-type: none;
       }
+      
       
       div a {
         color:gray;
@@ -68,30 +77,47 @@
         display: flex;
         flex-wrap: wrap;
         flex-direction: row;
+    
       }
       
       .aboutme {
         margin-top: 100px;
         padding: 0px 100px 30px 100px;
         margin: 100px 50px 0 50px;
-        background-color: blanchedalmond;
-        border: 5px solid paleturquoise;
+        border-radius: 15px;
       }
     
       .aboutme h2 {
-        border: 5px solid paleturquoise;
         position: relative;
         bottom: 30px;
         color: grey;
         font-size: 200%;
-        background-color: blanchedalmond;
+        background-color: white;
         padding: 10px 10px 10px 10px;
+        
       }
     
       .aboutme p {
         line-height: 1.6;
         font-style: oblique;
       }
+
+      .back {
+        background-image: url(https://th.bing.com/th/id/R.2adcc21844968ee647cfeb5a521cb376?rik=LdiC6L%2facEZWaQ&pid=ImgRaw&r=0);
+      }
+
+      .name {
+     font-weight: bolder;
+     color: darkcyan;
+      }
+
+      img {
+        height: 100px;
+        width: 100px;
+        border: 5px solid var(--grey);
+        border-radius: 10px 10px 10px 10px;
+        margin-left: 1px;
+    }
     
 
 
