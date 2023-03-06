@@ -129,7 +129,7 @@
         object-position: bottom;
         padding: 10px;
         border-radius: 15px 15px 15px 15px;
-
+       border: solid 5px darkblue;
     }
 
     .project img:hover {
