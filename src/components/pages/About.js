@@ -3,7 +3,6 @@ import avatar from'../images/20220715_190418 (1).jpg';
 
 export default function About() {
   return (
-
     <div className='back'>
     <div className='aboutme'>
     <h2>About Me</h2>
