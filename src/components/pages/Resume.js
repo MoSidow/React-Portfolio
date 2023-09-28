@@ -6,7 +6,7 @@ export default function Resume() {
     <h2 className='portfolio'>Resume</h2>
     <div className='project'>
       <div>
-      <a href="https://drive.google.com/file/d/1VzkOQbrmcgDEBMf870ROXTb4JCUw2b0y/view?usp=share_link"><img classname="Cimg"src={CV} alt="Cv cover"/></a>
+      <a href="https://1drv.ms/w/c/ea7ecd249dee70dd/EYte3__1gzFDsghi0uCHZMcB1_LeJqNzwmhAPgKw4SN1jA?e=ktYda8"><img classname="Cimg"src={CV} alt="Cv cover"/></a>
     </div>
     </div>
     </div>
